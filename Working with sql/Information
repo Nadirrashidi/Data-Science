@@ -1,1 +1,2 @@
-
+database "world"
+create database with the name world in xamp server php my admin and import it
